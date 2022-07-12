@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-family: sans-serif;
+}
+
+code {
+    color: red;
+    font-family: monospace;
+}
+
+.second {
+    color: green;
+}
+
+li {
+    font-family: inherit;
+}
